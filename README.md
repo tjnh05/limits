@@ -1,6 +1,6 @@
 # limits
 system limits setting for CENTOS 7
 
-limits.conf  shoud be deployed to directory /etc/security/.
+File limits.conf  shoud be deployed to directory /etc/security/.
 
-login shoud be deployed to directory /etc/pam.d.
+File login shoud be deployed to directory /etc/pam.d.
